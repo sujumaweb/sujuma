@@ -113,7 +113,7 @@ p{ margin: 0 0 1em; color: var(--slate); line-height: 1.65; }
   height: 84px;
 }
 .logo{ display:flex; align-items:center; gap:12px; }
-.logo img{ height: 46px; width:auto; }
+.logo img{ height: 60px; width:auto; }
 .nav-links{ display:flex; align-items:center; gap:34px; }
 .nav-links a{
   font-weight:600; font-size:14.5px; letter-spacing:.02em;
@@ -598,7 +598,7 @@ p{ margin: 0 0 1em; color: var(--slate); line-height: 1.65; }
   padding-bottom: 48px;
   border-bottom: 1px solid rgba(255,255,255,.1);
 }
-.footer-brand .logo img{ height:44px; }
+.footer-brand .logo img{ height:58px; }
 .footer-brand p{ color: rgba(255,255,255,.5); font-size: 13.8px; margin-top: 16px; max-width: 30ch; }
 .footer-social{ display:flex; gap:12px; margin-top: 20px; }
 .footer-social a{
